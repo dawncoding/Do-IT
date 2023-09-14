@@ -7,6 +7,7 @@ const cookieConfig = {
   httpOnly: true,
   maxAge: 60 * 1000, // 1분
 };
+
 const SECRET = "mySecret";
 
 ///////////////////////////////////
