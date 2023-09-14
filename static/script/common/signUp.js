@@ -89,6 +89,76 @@ async function signUp() {
     return;
   }
 
+  // 각 입력 필드에 대한 제한
+  // 아이디: 영어 소문자/대문자, 숫자, 기호만 허용
+  const userIdRegex = /^[a-zA-Z0-9-_]+$/;
+  // 닉네임: 한글, 영어 소문자/대문자, 숫자, 기호만 허용
+  const nicknameRegex = /^[가-힣a-zA-Z0-9-_]+$/;
+  // 링크: HTTP 주소 형태
+  const linkRegex = /^https?:\/\/\S+$/;
+
+  // 아이디 형식이 올바르지 않는 경우
+  if (!userIdRegex.test(userId)) {
+    const Toast = Swal.mixin({
+      toast: true,
+      position: "center",
+      showConfirmButton: false,
+      timer: 2000,
+      timerProgressBar: true,
+      customClass: {
+        container: "custom-swal-container",
+      },
+    });
+
+    Toast.fire({
+      icon: "warning",
+      title: "아이디를 올바른 형식으로 입력해주세요.",
+    });
+
+    return;
+  }
+  // 닉네임 형식이 올바르지 않는 경우
+  if (!nicknameRegex.test(nickname)) {
+    const Toast = Swal.mixin({
+      toast: true,
+      position: "center",
+      showConfirmButton: false,
+      timer: 2000,
+      timerProgressBar: true,
+      customClass: {
+        container: "custom-swal-container",
+      },
+    });
+
+    Toast.fire({
+      icon: "warning",
+      title: "닉네임을 올바른 형식으로 입력해주세요.",
+    });
+
+    return;
+  }
+
+  // 링크 형식이 올바르지 않는 경우
+  if (!linkRegex.test(link)) {
+    const Toast = Swal.mixin({
+      toast: true,
+      position: "center",
+      showConfirmButton: false,
+      timer: 2000,
+      timerProgressBar: true,
+      customClass: {
+        container: "custom-swal-container",
+      },
+    });
+
+    Toast.fire({
+      icon: "warning",
+      title: "링크를 올바른 형식으로 입력해주세요.",
+    });
+
+    return;
+  }
+
   // 비밀번호와 비밀번호 확인이 일치하는지 검사한다.
   if (pw !== confirmPw) {
     const Toast = Swal.mixin({
