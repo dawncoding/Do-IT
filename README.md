@@ -38,7 +38,7 @@
 
 <details>
 
-<summary>메인페이지</summary>
+### 메인페이지
 
 ![스크린샷 2023-12-13 오전 8 19 30](https://github.com/Stendhalsynd/Do-IT/assets/96957774/df9af52b-eb8c-40a5-b288-8a975ac609b1)
 
@@ -48,7 +48,7 @@
 
 <details>
 
-<summary>회원가입 및 로그인</summary>
+### 회원가입 및 로그인
 
 ![스크린샷 2023-12-13 오전 8 19 57](https://github.com/Stendhalsynd/Do-IT/assets/96957774/3aecee3d-901f-4531-85af-9d8daf8e746b)
 
