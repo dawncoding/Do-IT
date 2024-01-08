@@ -36,19 +36,13 @@
 
 ### 서비스 화면
 
-<details>
-
-<summary>메인페이지</summary>
+#### 메인페이지
 
 ![스크린샷 2023-12-13 오전 8 19 30](https://github.com/Stendhalsynd/Do-IT/assets/96957774/df9af52b-eb8c-40a5-b288-8a975ac609b1)
 
 > 목업에 대해서는 피그마 커뮤니티중 Free Clay Mockups, iPhone 12 Free Mockups 를 활용했다.
 
-</details>
-
-<details>
-
-<summary>회원가입 및 로그인</summary>
+#### 회원가입 및 로그인
 
 ![스크린샷 2023-12-13 오전 8 19 57](https://github.com/Stendhalsynd/Do-IT/assets/96957774/3aecee3d-901f-4531-85af-9d8daf8e746b)
 
@@ -58,11 +52,7 @@
 
 > 플랫폼의 마스코트 캐릭터가 마우스를 따라 얼굴을 움직이도록 애니메이션을 적용했고 로그인, 회원가입시 비밀번호를 입력할때는 보안을 위해 뒤로 돌아보고 눈을 감는 듯한 효과를 주었다.
 
-</details>
-
-<details>
-
-<summary>마이페이지</summary>
+#### 마이페이지
 
 ![](https://velog.velcdn.com/images/qmflf556/post/e993424d-420d-4d6e-806b-e6a89228ceda/image.png) 
 
@@ -70,11 +60,7 @@
 
 > 마이페이지에선 닉네임, 증빙 링크 (깃허브 혹은 기술블로그 링크)를 수정할 수 있다. 또한 내가 개설한 스터디 목록과 지원한 스터디 목록을 확인할 수 있다. 해당 목록에선 현재 각 스터디가 승인 완료인지 대기중인지 혹은 거절되었는지 상태를 확인할 수 있다.
 
-</details>
-
-<details>
-
-<summary>스터디 목록</summary>
+#### 스터디 목록
 
 | 피그마 시안 | 작업 결과 |
 | --- | --- |
@@ -82,11 +68,7 @@
 
 > 스터디 목록을 통해 모집 현황, 스터디 제목, 소개글, 관심 IT 분야를 확인할 수 있으며 각 스터디를 클릭하여 세부 페이지로 들어갈 수 있다.
 
-</details>
-
-<details>
-
-<summary>스터디 상세</summary>
+#### 스터디 상세
 
 `모바일`
 ![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
@@ -102,11 +84,7 @@
 
 > 스터디 상세 페이지에서는 스터디 개설자와 스터디 참여자가 볼 수 있는 화면이 다르다. 누구나 현재 스터디에 합류한 리더, 참여한 크루원을 확인할 수 있다. 다만 스터디 지원자만 지원하기 / 승인 대기중 / 모집 완료 버튼을 확인할 수 있고 스터디 개설자만 내가 개설한 스터디에 지원한 크루들의 참여 여부를 승낙 / 거절할 수 있다.
 
-</details>
-
-<details>
-
-<summary>스터디 개설</summary>
+#### 스터디 개설
 
 ![](https://velog.velcdn.com/images/qmflf556/post/076d4368-8a4f-44f4-95e4-0655afa58c2c/image.png)
 
@@ -122,11 +100,7 @@
 
 운영진의 결정은 위와 같이 번복할 수 있으며 결정된 사항에 대해 해당 스레드의 댓글을 슬랙봇을 통해 생성하도록 했다.
 
-</details>
-
-<details>
-
-<summary>CS 면접 연습하기</summary>
+#### CS 면접 연습하기
 
 주제 선택하기와 CS 면접 연습 2가지 기능이 있다.
 
@@ -143,8 +117,6 @@
 각각의 답변에 대한 피드백을 생성하는데 5초에서 10초 혹은 그 이상 시간이 소요된다. 이 시간을 줄이기 어렵지만 UX 를 위해 중간에 gif 로 로딩동안 보여줄 화면을 구성했다.
 
 ![](https://velog.velcdn.com/images/qmflf556/post/7ac89b0c-320f-47be-bfe9-8819f07b28d3/image.png)
-
-</details>
 
 ## 설치 라이브러리
 
