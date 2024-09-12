@@ -4,11 +4,12 @@
 
 <img src='https://github.com/Stendhalsynd/Do-IT/assets/96957774/f65db856-ebea-4401-a1ad-02d92a89b432' width='300' >
 
+<!--
 ## 배포 주소
 
 - [Do IT](3.34.134.92/)
   - EC2 를 통해 배포한 주소
-
+-->
 ## 프로젝트 기간
 
 > `2023.08.31 ~ 2023.09.14`
