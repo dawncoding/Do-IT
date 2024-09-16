@@ -43,6 +43,7 @@
 ### 서비스 화면
 
 #### 메인페이지
+![Do-IT 메인페이지](https://github.com/user-attachments/assets/35882bf0-a469-40f0-b6dc-9e602887667e)
 
 ![스크린샷 2023-12-13 오전 8 19 30](https://github.com/Stendhalsynd/Do-IT/assets/96957774/df9af52b-eb8c-40a5-b288-8a975ac609b1)
 
