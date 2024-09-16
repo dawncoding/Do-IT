@@ -140,7 +140,7 @@
 
 > 주제 선택하기와 CS 면접 연습 2가지 기능이 있다.
 
-##### CS 면접 연습 주제 선택 페이지 피그마
+##### CS 면접 연습 주제 선택 페이지
 
 ![](https://velog.velcdn.com/images/qmflf556/post/80a4b8cb-5d58-4ac9-92be-928d3aee90f0/image.png)
 
