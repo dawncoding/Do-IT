@@ -81,6 +81,7 @@
 ![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
 
 `반응형 - 웹`
+
 ![](https://velog.velcdn.com/images/qmflf556/post/1e19b6c3-4c1e-4cb4-8f6d-8ebadc2637c7/image.png)
 
 `스터디 상세 페이지 - 지원자`
