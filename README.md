@@ -43,7 +43,10 @@
 ### 서비스 화면
 
 #### 메인페이지
+
 ![Do-IT 메인페이지](https://github.com/user-attachments/assets/35882bf0-a469-40f0-b6dc-9e602887667e)
+
+##### 메인페이지 피그마
 
 ![스크린샷 2023-12-13 오전 8 19 30](https://github.com/Stendhalsynd/Do-IT/assets/96957774/df9af52b-eb8c-40a5-b288-8a975ac609b1)
 
@@ -78,6 +81,7 @@
 #### 스터디 상세 페이지
 
 `반응형 - 모바일`
+
 ![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
 
 `반응형 - 웹`
@@ -85,9 +89,11 @@
 ![](https://velog.velcdn.com/images/qmflf556/post/1e19b6c3-4c1e-4cb4-8f6d-8ebadc2637c7/image.png)
 
 `스터디 상세 페이지 - 지원자`
+
 ![](https://velog.velcdn.com/images/qmflf556/post/8b6299a7-501e-43d6-9dbc-e1d7f0ead977/image.gif)
 
 `스터디 상세 페이지 - 개설자`
+
 ![](https://velog.velcdn.com/images/qmflf556/post/4c321261-a5d1-4e27-ab4e-1e946d0171ed/image.gif)
 
 > 스터디 상세 페이지에서는 스터디 개설자와 스터디 참여자가 볼 수 있는 화면이 다르다. 누구나 현재 스터디에 합류한 리더, 참여한 크루원을 확인할 수 있다. 다만 스터디 지원자만 지원하기 / 승인 대기중 / 모집 완료 버튼을 확인할 수 있고 스터디 개설자만 내가 개설한 스터디에 지원한 크루들의 참여 여부를 승낙 / 거절할 수 있다.
