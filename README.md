@@ -78,39 +78,43 @@
 
 #### 마이페이지
 
-![](https://velog.velcdn.com/images/qmflf556/post/e993424d-420d-4d6e-806b-e6a89228ceda/image.png) 
-
 ![](https://velog.velcdn.com/images/qmflf556/post/3f4287d0-27cb-45c4-b06f-b9b27069090f/image.gif)
 
 > 마이페이지에선 닉네임, 증빙 링크 (깃허브 혹은 기술블로그 링크)를 수정할 수 있다. 또한 내가 개설한 스터디 목록과 지원한 스터디 목록을 확인할 수 있다. 해당 목록에선 현재 각 스터디가 승인 완료인지 대기중인지 혹은 거절되었는지 상태를 확인할 수 있다.
 
+##### 마이페이지 피그마
+
+![](https://velog.velcdn.com/images/qmflf556/post/e993424d-420d-4d6e-806b-e6a89228ceda/image.png) 
+
 #### 스터디 목록 페이지
 
-| 피그마 시안 | 작업 결과 |
-| --- | --- |
-| ![](https://velog.velcdn.com/images/qmflf556/post/d5b57a6c-98f1-468d-a47b-ee851a0e9fa1/image.png) | ![](https://velog.velcdn.com/images/qmflf556/post/6acf7d2c-d6d3-4eae-a265-6564cafc7ebb/image.png) |
+![](https://velog.velcdn.com/images/qmflf556/post/6acf7d2c-d6d3-4eae-a265-6564cafc7ebb/image.png)
 
 > 스터디 목록을 통해 모집 현황, 스터디 제목, 소개글, 관심 IT 분야를 확인할 수 있으며 각 스터디를 클릭하여 세부 페이지로 들어갈 수 있다.
 
+##### 스터디 목록 페이지 피그마
+
+ ![](https://velog.velcdn.com/images/qmflf556/post/d5b57a6c-98f1-468d-a47b-ee851a0e9fa1/image.png)
+
 #### 스터디 상세 페이지
 
-`반응형 - 모바일`
-
-![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
-
-`반응형 - 웹`
-
-![](https://velog.velcdn.com/images/qmflf556/post/1e19b6c3-4c1e-4cb4-8f6d-8ebadc2637c7/image.png)
-
-`스터디 상세 페이지 - 지원자`
+##### 스터디 상세 페이지 - 지원자
 
 ![](https://velog.velcdn.com/images/qmflf556/post/8b6299a7-501e-43d6-9dbc-e1d7f0ead977/image.gif)
 
-`스터디 상세 페이지 - 개설자`
+##### 스터디 상세 페이지 - 개설자
 
 ![](https://velog.velcdn.com/images/qmflf556/post/4c321261-a5d1-4e27-ab4e-1e946d0171ed/image.gif)
 
 > 스터디 상세 페이지에서는 스터디 개설자와 스터디 참여자가 볼 수 있는 화면이 다르다. 누구나 현재 스터디에 합류한 리더, 참여한 크루원을 확인할 수 있다. 다만 스터디 지원자만 지원하기 / 승인 대기중 / 모집 완료 버튼을 확인할 수 있고 스터디 개설자만 내가 개설한 스터디에 지원한 크루들의 참여 여부를 승낙 / 거절할 수 있다.
+
+##### 스터디 상세 페이지 피그마 - 모바일
+
+![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
+
+##### 스터디 상세 페이지 피그마 - 웹
+
+![](https://velog.velcdn.com/images/qmflf556/post/1e19b6c3-4c1e-4cb4-8f6d-8ebadc2637c7/image.png)
 
 #### 스터디 개설 페이지
 
