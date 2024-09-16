@@ -54,13 +54,19 @@
 
 #### 회원가입 및 로그인
 
-![스크린샷 2023-12-13 오전 8 19 57](https://github.com/Stendhalsynd/Do-IT/assets/96957774/3aecee3d-901f-4531-85af-9d8daf8e746b)
+##### 회원가입
 
-![](https://velog.velcdn.com/images/qmflf556/post/d4679784-9bd3-45cc-95d0-b899a185ef16/image.png)
+![Do-IT 회원가입](https://github.com/user-attachments/assets/e84f2cb0-32cd-4f41-8292-e05fb8c384f2)
 
 ![](https://velog.velcdn.com/images/qmflf556/post/ca102e80-62d2-4d38-a0cc-82ac22903ffd/image.gif)
 
 > 플랫폼의 마스코트 캐릭터가 마우스를 따라 얼굴을 움직이도록 애니메이션을 적용했고 로그인, 회원가입시 비밀번호를 입력할때는 보안을 위해 뒤로 돌아보고 눈을 감는 듯한 효과를 주었다.
+
+##### 회원가입 및 로그인 피그마
+
+![스크린샷 2023-12-13 오전 8 19 57](https://github.com/Stendhalsynd/Do-IT/assets/96957774/3aecee3d-901f-4531-85af-9d8daf8e746b)
+
+![](https://velog.velcdn.com/images/qmflf556/post/d4679784-9bd3-45cc-95d0-b899a185ef16/image.png)
 
 #### 마이페이지
 
