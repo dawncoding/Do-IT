@@ -56,9 +56,9 @@
 
 ##### 회원가입 예외처리
 
-| 회원가입 동일한 아이디가 존재하는 경우 예외처리 | 회원가입 입력란 예외처리 |
-| --- | --- |
-| ![Do-IT 회원가입 아이디 예외처리](https://github.com/user-attachments/assets/74b42b48-5719-4cfb-9b7c-5d9cc305d2bf) | ![Do-IT 회원가입](https://github.com/user-attachments/assets/e84f2cb0-32cd-4f41-8292-e05fb8c384f2) |
+| 회원가입 입력란 예외처리 | 회원가입 동일한 아이디가 존재하는 경우 예외처리 | 회원가입 비밀번호와 비밀번호 재확인이 다를 경우 예외처리 | 
+| --- | --- | --- |
+| ![Do-IT 회원가입](https://github.com/user-attachments/assets/e84f2cb0-32cd-4f41-8292-e05fb8c384f2) | ![Do-IT 회원가입 아이디 예외처리](https://github.com/user-attachments/assets/74b42b48-5719-4cfb-9b7c-5d9cc305d2bf) | ![Do-IT 회원가입 비밀번호 재확인 예외처리](https://github.com/user-attachments/assets/6ea01d48-afa2-4c2b-954d-ae987d8359fa) |
 
 ![](https://velog.velcdn.com/images/qmflf556/post/ca102e80-62d2-4d38-a0cc-82ac22903ffd/image.gif)
 
