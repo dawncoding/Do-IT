@@ -56,6 +56,12 @@
 
 ##### 회원가입
 
+##### 회원가입 예외처리
+
+![Do-IT 회원가입 예외처리](https://github.com/user-attachments/assets/29496566-bc8d-4ca7-92bd-7113c1e68e17)
+
+##### 회원가입 입력란 예외처리
+
 ![Do-IT 회원가입](https://github.com/user-attachments/assets/e84f2cb0-32cd-4f41-8292-e05fb8c384f2)
 
 ![](https://velog.velcdn.com/images/qmflf556/post/ca102e80-62d2-4d38-a0cc-82ac22903ffd/image.gif)
