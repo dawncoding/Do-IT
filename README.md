@@ -102,7 +102,7 @@
 
 ![](https://velog.velcdn.com/images/qmflf556/post/8b6299a7-501e-43d6-9dbc-e1d7f0ead977/image.gif)
 
-##### 스터디 상세 페이지 - 개설자
+##### 스터디 상세 페이지 - 개설자
 
 ![](https://velog.velcdn.com/images/qmflf556/post/4c321261-a5d1-4e27-ab4e-1e946d0171ed/image.gif)
 
