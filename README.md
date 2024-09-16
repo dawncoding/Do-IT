@@ -67,7 +67,7 @@
 
 > 마이페이지에선 닉네임, 증빙 링크 (깃허브 혹은 기술블로그 링크)를 수정할 수 있다. 또한 내가 개설한 스터디 목록과 지원한 스터디 목록을 확인할 수 있다. 해당 목록에선 현재 각 스터디가 승인 완료인지 대기중인지 혹은 거절되었는지 상태를 확인할 수 있다.
 
-#### 스터디 목록
+#### 스터디 목록 페이지
 
 | 피그마 시안 | 작업 결과 |
 | --- | --- |
@@ -75,23 +75,23 @@
 
 > 스터디 목록을 통해 모집 현황, 스터디 제목, 소개글, 관심 IT 분야를 확인할 수 있으며 각 스터디를 클릭하여 세부 페이지로 들어갈 수 있다.
 
-#### 스터디 상세
+#### 스터디 상세 페이지
 
-`모바일`
+`반응형 - 모바일`
 ![](https://velog.velcdn.com/images/qmflf556/post/1433523a-ce43-48ae-a4c6-5661ac7a49af/image.png)
 
-`웹`
+`반응형 - 웹`
 ![](https://velog.velcdn.com/images/qmflf556/post/1e19b6c3-4c1e-4cb4-8f6d-8ebadc2637c7/image.png)
 
-`서버 배포 - 지원자`
+`스터디 상세 페이지 - 지원자`
 ![](https://velog.velcdn.com/images/qmflf556/post/8b6299a7-501e-43d6-9dbc-e1d7f0ead977/image.gif)
 
-`서버 배포 - 개설자`
+`스터디 상세 페이지 - 개설자`
 ![](https://velog.velcdn.com/images/qmflf556/post/4c321261-a5d1-4e27-ab4e-1e946d0171ed/image.gif)
 
 > 스터디 상세 페이지에서는 스터디 개설자와 스터디 참여자가 볼 수 있는 화면이 다르다. 누구나 현재 스터디에 합류한 리더, 참여한 크루원을 확인할 수 있다. 다만 스터디 지원자만 지원하기 / 승인 대기중 / 모집 완료 버튼을 확인할 수 있고 스터디 개설자만 내가 개설한 스터디에 지원한 크루들의 참여 여부를 승낙 / 거절할 수 있다.
 
-#### 스터디 개설
+#### 스터디 개설 페이지
 
 ![](https://velog.velcdn.com/images/qmflf556/post/076d4368-8a4f-44f4-95e4-0655afa58c2c/image.png)
 
@@ -117,11 +117,11 @@
 
 ![](https://velog.velcdn.com/images/qmflf556/post/d01e678f-ade9-454d-80b2-32bc74624f4d/image.png)
 
-이후 선택한 주제에 대해 `OpenAI API` 를 활용하여 해당 주제에 맞는 면접 질문을 유저에게 보이고 유저의 답변에 대해 즉시 ChatGPT 에 사용되는 OpenAI API 로 피드백을 생성한다.
+이후 선택한 주제에 대해 `OpenAI API` 를 활용하여 해당 주제에 맞는 면접 질문을 유저에게 보이고 유저의 답변에 대해 즉시 ChatGPT에 사용되는 OpenAI API로 피드백을 생성한다.
 
 유저의 답변에 맞춰 한번의 면접 연습을 통해 총 30 포인트까지 획득할 수 있다.
 
-각각의 답변에 대한 피드백을 생성하는데 5초에서 10초 혹은 그 이상 시간이 소요된다. 이 시간을 줄이기 어렵지만 UX 를 위해 중간에 gif 로 로딩동안 보여줄 화면을 구성했다.
+각각의 답변에 대한 피드백을 생성하는데 5초에서 10초 혹은 그 이상 시간이 소요된다. 이 시간을 줄이기 어렵지만 UX를 위해 중간에 gif로 로딩동안 보여줄 화면을 구성했다.
 
 ![](https://velog.velcdn.com/images/qmflf556/post/7ac89b0c-320f-47be-bfe9-8819f07b28d3/image.png)
 
@@ -146,11 +146,11 @@
 
 ## Frontend
 
-> scss, css, ejs, sweetalert2, aos
+> html/css, scss, javascript, ejs, sweetalert2, aos
 
 ## Backend
 
-> node.js, sequelize, mysql, bolt.js, webhook, slackAPI, openAPI
+> node.js, sequelize, mysql, bolt.js, webhook, slack API, openAI API
 
 # 3. 파일 구조
 
@@ -278,7 +278,7 @@ Do IT 팀의 스프린트 주기는 1주일로 잡았다. 이번 프로젝트는
 
 ## 팀명
 
-> 🔍 안녕하세요! 포스코 x 코딩온 풀스택 웹 개발자 8기 교육생으로 조직된 프로젝트 팀 `Do IT` 입니다. 고민하지 말고 지금 당장 Just Do IT 이라는 의미와 IT 직무에서 일하고 싶은 주니어 개발자들에게 Do IT 라는 의미를 섞어 팀명을 정했습니다.
+> 🔍 안녕하세요! 포스코 x 코딩온 풀스택 웹 개발자 8기 교육생으로 조직된 프로젝트 팀 `Do IT` 입니다. 고민하지 말고 지금 당장 Just Do IT 이라는 의미와 IT 직무에서 일하고 싶은 주니어 개발자들에게 Do IT 라는 의미를 섞어 팀명을 정했습니다.
 
 ## 멤버
 
