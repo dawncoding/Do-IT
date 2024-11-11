@@ -1,8 +1,6 @@
 # 개발자를 위한 스터디 매칭 플랫폼 : Do-IT
 
-> 4인 팀 프로젝트
-
-<img src='https://github.com/Stendhalsynd/Do-IT/assets/96957774/f65db856-ebea-4401-a1ad-02d92a89b432' width='300' >
+![Do IT 프로젝트 thumbnail](https://github.com/user-attachments/assets/5ada6b3e-8bc5-475f-aef1-ed14f42cf640)
 
 ## 목차
 - [README](#readme)
@@ -25,6 +23,9 @@
 
 ### 개요
 
+<img src='https://github.com/Stendhalsynd/Do-IT/assets/96957774/f65db856-ebea-4401-a1ad-02d92a89b432' width='300' >
+
+> 4인 팀 프로젝트
 - 한 줄 소개 : 주니어 개발자로서 평소 관심이 많던 cs 면접이나 스터디에 대해 연습하고 모집하는 환경을 제공하는 플랫폼
 - 서비스 명 : 두잇 (Do IT)
 
