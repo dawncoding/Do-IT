@@ -4,8 +4,8 @@
 
 ## 목차
 - [README](#readme)
-  - [Main Page](#메인페이지)
-  - [Sign Up, Sign In](#회원가입-및-로그인)
+  - [Main Page](#Main-Page)
+  - [Sign Up and Log In](#Sign-Up-and-Log-In)
 
 <!--
 ## 배포 주소
@@ -43,41 +43,41 @@
 
 ### 서비스 화면
 
-#### 메인페이지
+#### Main Page
 
 ![Do-IT 메인페이지](https://github.com/user-attachments/assets/35882bf0-a469-40f0-b6dc-9e602887667e)
 
-##### 메인페이지 피그마
+##### Figma Design of the Main Page
 
 ![스크린샷 2023-12-13 오전 8 19 30](https://github.com/Stendhalsynd/Do-IT/assets/96957774/df9af52b-eb8c-40a5-b288-8a975ac609b1)
 
 > 목업에 대해서는 피그마 커뮤니티중 Free Clay Mockups, iPhone 12 Free Mockups 를 활용했다.
 
-#### 회원가입 및 로그인
+#### Sign Up and Log In
 
-##### 회원가입 및 로그인 페이지 반응형
+##### Sign Up and Log In Page with Responsive Design
 
 ![Do-IT 로그인 반응형](https://github.com/user-attachments/assets/deec767a-67e0-421c-b2d7-583b29afdcc6)
 
-##### 회원가입
+##### Sign Up
 
-| 필수로 입력해야 하는 정보를 입력하지 않은 경우 | 동일한 아이디가 존재하는 경우 | 비밀번호와 비밀번호 재확인 입력 정보가 다를 경우 | 
+| When required fields are not filled in <br/> 필수로 입력해야 하는 정보를 입력하지 않은 경우 | When the username already exists <br/> 동일한 아이디가 존재하는 경우 | When password and confirm password do not match <br/> 비밀번호와 비밀번호 재확인 입력 정보가 다를 경우 | 
 | --- | --- | --- |
 | ![Do-IT 회원가입](https://github.com/user-attachments/assets/e84f2cb0-32cd-4f41-8292-e05fb8c384f2) | ![Do-IT 회원가입 아이디 예외처리](https://github.com/user-attachments/assets/74b42b48-5719-4cfb-9b7c-5d9cc305d2bf) | ![Do-IT 회원가입 비밀번호 재확인 예외처리](https://github.com/user-attachments/assets/6ea01d48-afa2-4c2b-954d-ae987d8359fa) |
 
-#### 로그인
+#### Log In
 
-| 로그인 성공 | 아이디를 잘못 입력했을 경우 | 비밀번호를 잘못 입력했을 경우 | 
+| Login successful <br/> 로그인 성공 | When the username is incorrect <br/> 아이디를 잘못 입력했을 경우 | When the password is incorrect <br/> 비밀번호를 잘못 입력했을 경우 | 
 | --- | --- | --- |
 | ![Do-IT 로그인 성공](https://github.com/user-attachments/assets/aa9aa945-688a-4cb9-abe7-b9bc76b85695) | ![Do-IT 로그인 아이디 잘못 입력한 경우 예외처리](https://github.com/user-attachments/assets/da7055a6-2489-46c1-bfc8-192db238fbdd) | ![Do-IT 로그인 비밀번호 잘못 입력한 경우 예외처리](https://github.com/user-attachments/assets/4712fed0-7362-4f36-897c-020d54f39c32) |
 
-##### 로그인 애니메이션
+##### Animations applied to the Login Screen 로그인 애니메이션
 
 ![](https://velog.velcdn.com/images/qmflf556/post/ca102e80-62d2-4d38-a0cc-82ac22903ffd/image.gif)
 
 > 플랫폼의 마스코트 캐릭터가 마우스를 따라 얼굴을 움직이도록 애니메이션을 적용했고 로그인, 회원가입시 비밀번호를 입력할때는 보안을 위해 뒤로 돌아보고 눈을 감는 듯한 효과를 주었다.
 
-##### 회원가입 및 로그인 피그마
+##### Figma Design for Sign Up and Log In 회원가입 및 로그인 피그마
 
 ![스크린샷 2023-12-13 오전 8 19 57](https://github.com/Stendhalsynd/Do-IT/assets/96957774/3aecee3d-901f-4531-85af-9d8daf8e746b)
 
